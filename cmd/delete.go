@@ -5,9 +5,9 @@ import (
 	"os"
 
 	"github.com/Sirupsen/logrus"
-	"github.com/jgsqware/clairctl/clair"
-	"github.com/jgsqware/clairctl/config"
-	"github.com/jgsqware/clairctl/docker"
+	"github.com/leopoldodonnell/clairctl/clair"
+	"github.com/leopoldodonnell/clairctl/config"
+	"github.com/leopoldodonnell/clairctl/docker"
 	"github.com/spf13/cobra"
 )
 

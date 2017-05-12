@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/jgsqware/clairctl/test"
+	"github.com/leopoldodonnell/clairctl/test"
 	"github.com/spf13/viper"
 
 	"gopkg.in/yaml.v2"

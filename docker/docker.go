@@ -8,9 +8,9 @@ import (
 	"github.com/docker/distribution/manifest/schema1"
 	"github.com/docker/distribution/manifest/schema2"
 	"github.com/docker/docker/reference"
-	"github.com/jgsqware/clairctl/config"
-	"github.com/jgsqware/clairctl/docker/dockercli"
-	"github.com/jgsqware/clairctl/docker/dockerdist"
+	"github.com/leopoldodonnell/clairctl/config"
+	"github.com/leopoldodonnell/clairctl/docker/dockercli"
+	"github.com/leopoldodonnell/clairctl/docker/dockerdist"
 	"github.com/opencontainers/go-digest"
 )
 

@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/jgsqware/clairctl/cmd"
+import "github.com/leopoldodonnell/clairctl/cmd"
 
 func main() {
 	cmd.Execute()

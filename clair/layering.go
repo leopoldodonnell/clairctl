@@ -7,8 +7,8 @@ import (
 	"github.com/Sirupsen/logrus"
 	"github.com/coreos/clair/api/v1"
 	"github.com/docker/docker/reference"
-	"github.com/jgsqware/clairctl/config"
-	"github.com/jgsqware/clairctl/xstrings"
+	"github.com/leopoldodonnell/clairctl/config"
+	"github.com/leopoldodonnell/clairctl/xstrings"
 )
 
 type layering struct {

@@ -6,8 +6,8 @@ import (
 	"os"
 
 	"github.com/docker/docker/reference"
-	"github.com/jgsqware/clairctl/config"
-	"github.com/jgsqware/clairctl/docker"
+	"github.com/leopoldodonnell/clairctl/config"
+	"github.com/leopoldodonnell/clairctl/docker"
 	"github.com/opencontainers/go-digest"
 	"github.com/spf13/cobra"
 )
